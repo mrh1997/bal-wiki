@@ -1,0 +1,6 @@
+# work with LF even if checked out on windows to work properly on
+# docker (which is linux)
+* text eol=lf
+
+# list all non-text files:
+*.png binary
